@@ -221,19 +221,19 @@ interface CommunitySystem {
 
 ## Development Phases
 
-### Phase 1: MVP (2 months)
+### Phase 1: MVP 
 1. Basic user authentication
 2. Core gaming features
 3. Simple family controls
 4. Essential safety features
 
-### Phase 2: Core Features (3 months)
+### Phase 2: Core Features 
 1. Digital Dost implementation
 2. Family connect system
 3. Basic community features
 4. Wellness tracking
 
-### Phase 3: Advanced Features (4 months)
+### Phase 3: Advanced Features 
 1. ML-powered personalization
 2. Advanced safety systems
 3. Tournament platform
